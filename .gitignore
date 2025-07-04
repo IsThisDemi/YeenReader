@@ -1,0 +1,23 @@
+.venv/
+__pycache__/
+faiss_index/
+*.pyc
+*.pkl
+*.log
+*.cache/
+.cache/
+.DS_Store
+.env
+*.pdf
+huggingface/
+.cache
+*.safetensors
+*.bin
+*.pt
+*.ckpt
+
+# VSCode
+.vscode/
+
+# Modelli e dati temporanei
+ollama_models/
