@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/3fe73f61-cea9-46ec-8248-67232d96a394" alt="icona yeenreader" width="80"/>
+
 # YeenReader
 
 Un assistente AI che legge manuali PDF e risponde alle domande citando i riferimenti.
